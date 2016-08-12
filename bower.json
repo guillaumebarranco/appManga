@@ -1,0 +1,22 @@
+{
+  "name": "webarrancoStarter",
+  "homepage": "https://github.com/guillaumebarranco/webarrancoStarter",
+  "authors": [
+    "guillaumebarranco <guillaume.barranco8@hotmail.fr>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "foundation": "^5.5.3"
+  }
+}
